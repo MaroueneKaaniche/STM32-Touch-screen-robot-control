@@ -1,0 +1,26 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TuningScreenViewBase.hpp:27:18:virtual void TuningScreenViewBase::Zid1E()	0	static
+TuningScreenViewBase.hpp:32:18:virtual void TuningScreenViewBase::Zid10E()	0	static
+TuningScreenViewBase.hpp:37:18:virtual void TuningScreenViewBase::Zid100E()	0	static
+TuningScreenViewBase.hpp:42:18:virtual void TuningScreenViewBase::Nakass100E()	0	static
+TuningScreenViewBase.hpp:47:18:virtual void TuningScreenViewBase::Nakass10E()	0	static
+TuningScreenViewBase.hpp:52:18:virtual void TuningScreenViewBase::Nakass1E()	0	static
+TuningScreenViewBase.hpp:57:18:virtual void TuningScreenViewBase::Zid1S()	0	static
+TuningScreenViewBase.hpp:62:18:virtual void TuningScreenViewBase::Zid10S()	0	static
+TuningScreenViewBase.hpp:67:18:virtual void TuningScreenViewBase::Zid100S()	0	static
+TuningScreenViewBase.hpp:72:18:virtual void TuningScreenViewBase::Nakass1S()	0	static
+TuningScreenViewBase.hpp:77:18:virtual void TuningScreenViewBase::Nakass10S()	0	static
+TuningScreenViewBase.hpp:82:18:virtual void TuningScreenViewBase::Nakass100S()	0	static
+TuningScreenViewBase.hpp:87:18:virtual void TuningScreenViewBase::Zid1D()	0	static
+TuningScreenViewBase.hpp:92:18:virtual void TuningScreenViewBase::Zid10D()	0	static
+TuningScreenViewBase.hpp:97:18:virtual void TuningScreenViewBase::Zid100D()	0	static
+TuningScreenViewBase.hpp:102:18:virtual void TuningScreenViewBase::Nakass100D()	0	static
+TuningScreenViewBase.hpp:107:18:virtual void TuningScreenViewBase::Nakass10D()	0	static
+TuningScreenViewBase.hpp:112:18:virtual void TuningScreenViewBase::Nakass1D()	0	static
+TuningScreenView.hpp:11:13:TuningScreenView::~TuningScreenView()	0	static
+TuningScreenView.cpp:13:6:virtual void TuningScreenView::tearDownScreen()	0	static
+TuningScreenView.cpp:8:6:virtual void TuningScreenView::setupScreen()	0	static
+TuningScreenView.hpp:11:13:virtual TuningScreenView::~TuningScreenView()	8	static
+TuningScreenView.cpp:3:1:TuningScreenView::TuningScreenView()	8	static

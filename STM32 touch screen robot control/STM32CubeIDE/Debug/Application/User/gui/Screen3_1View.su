@@ -1,0 +1,28 @@
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+Screen3_1View.hpp:11:13:Screen3_1View::~Screen3_1View()	0	static
+Screen3_1View.cpp:15:6:virtual void Screen3_1View::tearDownScreen()	0	static
+Screen3_1View.cpp:149:6:virtual void Screen3_1View::Go()	0	static
+Screen3_1View.cpp:152:6:virtual void Screen3_1View::Rotate()	0	static
+Screen3_1View.cpp:155:6:virtual void Screen3_1View::SetTestingRobotKbir()	0	static
+Screen3_1View.cpp:10:6:virtual void Screen3_1View::setupScreen()	0	static
+Screen3_1View.cpp:20:6:virtual void Screen3_1View::Zid1R()	8	static
+Screen3_1View.cpp:27:6:virtual void Screen3_1View::Nakass1R()	8	static
+Screen3_1View.cpp:35:6:virtual void Screen3_1View::Zid1000_x()	8	static
+Screen3_1View.cpp:41:6:virtual void Screen3_1View::Zid100_x()	8	static
+Screen3_1View.cpp:47:6:virtual void Screen3_1View::Zid10_x()	8	static
+Screen3_1View.cpp:53:6:virtual void Screen3_1View::Zid1_x()	8	static
+Screen3_1View.cpp:59:6:virtual void Screen3_1View::Nakass1000_x()	8	static
+Screen3_1View.cpp:67:6:virtual void Screen3_1View::Nakass100_x()	8	static
+Screen3_1View.cpp:75:6:virtual void Screen3_1View::Nakass10_x()	8	static
+Screen3_1View.cpp:83:6:virtual void Screen3_1View::Nakass1_x()	8	static
+Screen3_1View.cpp:91:6:virtual void Screen3_1View::Zid1000_y()	8	static
+Screen3_1View.cpp:97:6:virtual void Screen3_1View::Zid100_y()	8	static
+Screen3_1View.cpp:103:6:virtual void Screen3_1View::Zid10_y()	8	static
+Screen3_1View.cpp:109:6:virtual void Screen3_1View::Zid1_y()	8	static
+Screen3_1View.cpp:115:6:virtual void Screen3_1View::Nakass1000_y()	8	static
+Screen3_1View.cpp:124:6:virtual void Screen3_1View::Nakass100_y()	8	static
+Screen3_1View.cpp:133:6:virtual void Screen3_1View::Nakass10_y()	8	static
+Screen3_1View.cpp:141:6:virtual void Screen3_1View::Nakass1_y()	8	static
+Screen3_1View.hpp:11:13:virtual Screen3_1View::~Screen3_1View()	8	static
+Screen3_1View.cpp:5:1:Screen3_1View::Screen3_1View()	8	static

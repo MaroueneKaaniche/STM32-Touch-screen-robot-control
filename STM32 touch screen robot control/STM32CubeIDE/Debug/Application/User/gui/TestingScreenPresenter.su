@@ -1,0 +1,5 @@
+TestingScreenPresenter.hpp:28:13:TestingScreenPresenter::~TestingScreenPresenter()	0	static
+TestingScreenPresenter.cpp:10:6:virtual void TestingScreenPresenter::activate()	0	static
+TestingScreenPresenter.hpp:28:13:virtual TestingScreenPresenter::~TestingScreenPresenter()	8	static
+TestingScreenPresenter.hpp:28:13:virtual void* TestingScreenPresenter::_ZThn4_N22TestingScreenPresenterD1Ev()	0	static
+TestingScreenPresenter.cpp:4:1:TestingScreenPresenter::TestingScreenPresenter(TestingScreenView&)	8	static

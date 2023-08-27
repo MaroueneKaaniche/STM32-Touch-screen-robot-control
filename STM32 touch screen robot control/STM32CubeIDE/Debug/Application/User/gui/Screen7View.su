@@ -1,0 +1,9 @@
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+Screen7View.hpp:11:13:Screen7View::~Screen7View()	0	static
+Screen7View.cpp:16:6:virtual void Screen7View::tearDownScreen()	0	static
+Screen7View.cpp:20:6:virtual void Screen7View::ReceiveScore()	0	static
+Screen7View.cpp:11:6:virtual void Screen7View::setupScreen()	0	static
+Screen7View.cpp:38:6:virtual void Screen7View::ResetAndGo()	8	static
+Screen7View.cpp:63:6:virtual void Screen7View::handleTickEvent()	8	static
+Screen7View.hpp:11:13:virtual Screen7View::~Screen7View()	8	static
+Screen7View.cpp:6:1:Screen7View::Screen7View()	8	static

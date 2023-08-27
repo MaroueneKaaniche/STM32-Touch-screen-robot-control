@@ -1,0 +1,5 @@
+TuningScreenPresenter.hpp:28:13:TuningScreenPresenter::~TuningScreenPresenter()	0	static
+TuningScreenPresenter.cpp:10:6:virtual void TuningScreenPresenter::activate()	0	static
+TuningScreenPresenter.hpp:28:13:virtual TuningScreenPresenter::~TuningScreenPresenter()	8	static
+TuningScreenPresenter.hpp:28:13:virtual void* TuningScreenPresenter::_ZThn4_N21TuningScreenPresenterD1Ev()	0	static
+TuningScreenPresenter.cpp:4:1:TuningScreenPresenter::TuningScreenPresenter(TuningScreenView&)	8	static

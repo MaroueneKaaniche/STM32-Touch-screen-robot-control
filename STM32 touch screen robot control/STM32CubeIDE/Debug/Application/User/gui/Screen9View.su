@@ -1,0 +1,16 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+Screen9ViewBase.hpp:26:18:virtual void Screen9ViewBase::RightMotor()	0	static
+Screen9ViewBase.hpp:31:18:virtual void Screen9ViewBase::LeftMotor()	0	static
+Screen9ViewBase.hpp:36:18:virtual void Screen9ViewBase::Servo1Debug()	0	static
+Screen9ViewBase.hpp:41:18:virtual void Screen9ViewBase::Servo23Debug()	0	static
+Screen9ViewBase.hpp:46:18:virtual void Screen9ViewBase::ServoBatrattDebug()	0	static
+Screen9ViewBase.hpp:51:18:virtual void Screen9ViewBase::ValveDebug()	0	static
+Screen9ViewBase.hpp:56:18:virtual void Screen9ViewBase::Pompe1Debug()	0	static
+Screen9ViewBase.hpp:61:18:virtual void Screen9ViewBase::Pompe2Debug()	0	static
+Screen9View.hpp:11:13:Screen9View::~Screen9View()	0	static
+Screen9View.cpp:13:6:virtual void Screen9View::tearDownScreen()	0	static
+Screen9View.cpp:8:6:virtual void Screen9View::setupScreen()	0	static
+Screen9View.hpp:11:13:virtual Screen9View::~Screen9View()	8	static
+Screen9View.cpp:3:1:Screen9View::Screen9View()	8	static
