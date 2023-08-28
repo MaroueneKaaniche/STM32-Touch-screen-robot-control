@@ -34,7 +34,7 @@ To start working with the Embedded GUI for Robotic Control, follow these steps:
 
 This project was made possible through the contributions of the following individuals:
 
-- Farid Adwani ([@farid](https://github.com/Farid-Adwani)
+- Farid Adwani ([@farid](https://github.com/Farid-Adwani))
 
 ## License
 
