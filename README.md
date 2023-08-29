@@ -2,7 +2,6 @@
 Project for STM32f746g-discovery board for control of two autonomous robots remotely, calibration of robots wheels and dimensions, testing actuators and setting strategy for the EUROBOT international competition.  
 # Embedded Graphical User Interface for Robotic Control
 
-![Project Overview](project_image.jpg) <!-- Insert Image: Image depicting project overview -->
 
 Welcome to the Embedded Graphical User Interface (GUI) for Robotic Control repository. This project showcases the development of an intuitive interface for tuning, calibrating, and controlling robots powered by the STM32F746G Discovery board.
 
@@ -18,7 +17,6 @@ The main objective of this project is to create an efficient and user-friendly E
 - **Raspberry Pi Integration:** Establish communication between the GUI and the main Raspberry Pi using serial communication (UART) for data exchange.
 - **ROS Integration:** The main Raspberry Pi acts as a ROS (Robot Operating System) master, with additional Raspberry Pi units mounted on individual robots serving as ROS slaves. This setup enables seamless data exchange through ROS topics and services.
 
-![ROS Data Flow](ros_data_flow_image.jpg) <!-- Insert Image: Diagram depicting ROS data flow -->
 
 ## Getting Started
 
